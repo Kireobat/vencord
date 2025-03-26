@@ -5,8 +5,8 @@
  * @description Highly customizable theme for BetterDiscord.
  */
 
-/* IMPORT CSS */
-@import url(https://raw.githubusercontent.com/Kireobat/vencord/refs/heads/main/themes/main/main.css);
+/* IMPORT CSS from ClearVision base */
+@import url(https://clearvision.github.io/ClearVision-v6/main.css);
 
 /* SETTINGS */
 :root {
