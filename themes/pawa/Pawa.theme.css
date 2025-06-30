@@ -1,18 +1,18 @@
 /**
  * @name パワー (Pawā)
  * @author Kireobat
- * @version 1.0.0
+ * @version 1.1.0
  * @description Highly customizable theme for BetterDiscord.
  */
 
 /* IMPORT CSS from ClearVision base */
-@import url(https://clearvision.github.io/ClearVision-v6/main.css);
+@import url(https://clearvision.github.io/ClearVision-v7/main.css);
 
 /* SETTINGS */
 :root {
   /*TOP BAR*/
   --wordmark-before: "パワー";
-  --wordmark-after: "v1.0.0";
+  --wordmark-after: "v1.1.0";
 
   /* ACCENT COLORS */
   --main-color: #b70891;
